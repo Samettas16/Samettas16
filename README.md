@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Samet 
 #### I am information system enginneer
-![I am information system enginneer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I am working on the Mobile programming, cyber security, PYTHON, C, C#,JAVA,System and Networking and web developing
 
