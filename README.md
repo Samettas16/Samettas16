@@ -2,9 +2,9 @@
 #### I am information system enginneer
 
 
-I am working on the Mobile programming, cyber security, PYTHON, C, C#,JAVA,System and Networking and web developing
+I am working on the  cyber security, PYTHON, C#, System and Networking and web developing
 
-Skills: PYTHON, DART, C#, JAVA, HTML,CSS, BOOTSTRAP, JAVASCRİPT, C, C++
+Skills: PYTHON, C#, HTML,CSS, BOOTSTRAP, JAVASCRİPT, 
 
 - 🔭 I’m currently working on DART , PYTHON 
 
